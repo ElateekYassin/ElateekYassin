@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **Django, React, Wireshark, Ansible, AWS SDK, Kubernetes, Jenkins**
 
-- 👯 I’m looking to collaborate on **N/A**
-
-- 🤝 I’m looking for help with **N/A**
-
 - 👨‍💻 All of my projects are available at [https://github.com/ElateekYassin](https://github.com/ElateekYassin)
 
 - 💬 Ask me about **TensorFlow, HTML, CSS, JS, Node.JS, PHP, Web Security**
